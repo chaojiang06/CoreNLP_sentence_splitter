@@ -19,6 +19,6 @@ Each file contains an example sentence. The code will print out the splitting re
 
 ## Update hisotry
 This sentence splitter has gone through a few changes.
-* Danqi Chen wrote the [original](https://github.com/facebookresearch/DrQA/blob/master/drqa/tokenizers/corenlp_tokenizer.py) python wrapper for the tokenization function in CoreNLP.
-* Chao Jiang modified the code to make the sentence splitter produce split setnences with untokenized text.
-* Wuwei Lan modified the code to make it works with the Arabic language.
+* [Danqi Chen](https://www.cs.princeton.edu/~danqic/) wrote the [original](https://github.com/facebookresearch/DrQA/blob/master/drqa/tokenizers/corenlp_tokenizer.py) python wrapper for the tokenization function in CoreNLP.
+* [Chao Jiang](https://chaojiang06.github.io/) modified the code to make the sentence splitter produce split setnences with untokenized text.
+* [Wuwei Lan](https://lanwuwei.github.io/) modified the code to make it works with the Arabic language.
