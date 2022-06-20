@@ -22,3 +22,6 @@ This sentence splitter has gone through a few changes.
 * [Danqi Chen](https://www.cs.princeton.edu/~danqic/) wrote the [original](https://github.com/facebookresearch/DrQA/blob/master/drqa/tokenizers/corenlp_tokenizer.py) python wrapper for the tokenization function in CoreNLP.
 * [Chao Jiang](https://chaojiang06.github.io/) modified the code to make the sentence splitter produce split setnences with untokenized text.
 * [Wuwei Lan](https://lanwuwei.github.io/) modified the code to make it works with the Arabic language.
+
+## Acknowledgment
+This material is based in part on research sponsored by IARPA via the BETTER program (2019-19051600004).
